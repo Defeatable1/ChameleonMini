@@ -26,7 +26,7 @@ Our Project is based on the open-source project [ChameleonMini RevG](/../../../.
          - The IOS APP is currently **NOT** compatible with the official firmware
          - Credit to **[bettse](/../../../../bettse)**
       - Password: e4g1
-   - Optional GUI (Winodws Only):
+   - Optional GUI (Windows Only):
       - Windows: **[Here](http://www.icesql.se/download/ChameleonMiniGUI/publish.htm)**
       - Source: **[Here](/../../../../iceman1001/ChameleonMini-rebootedGUI)**
    - Chameleon Firmware:
@@ -515,8 +515,8 @@ MifareClassic1K/4K 4B/7B|ISO14443A 106 kbit/s|Support|Support|Not Supported|No c
 ## E. External Contributions
 ---
 
-- Iceman
-- Philippe Teuwen
+- @iceman1001
+- Philippe Teuwen (@doegox)
 - Willok
 - DXL
 - ProxGrind aka Olaf
